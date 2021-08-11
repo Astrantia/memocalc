@@ -6,6 +6,8 @@ mod game;
 mod multiplication;
 mod subtraction;
 
+
+fn new() {}
 //start, with the selected mode
 fn start_mode(mode: &str) -> bool {
     //modes possible
